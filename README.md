@@ -8,3 +8,4 @@ it is a FM radio transmitter i have built
 <img width="4000" height="3000" alt="20261004_112231" src="https://github.com/user-attachments/assets/a9f3da35-66f7-498b-9eec-1213675fd83c" />
 
 I have found a schematic somewhere on the internet and made it. I was looking everywhere on my phone and computer, but i couldn't find neither  that schematic nor BOM. 
+A FM radio transmitter based on transistor, with audio input from 3.5 jack or a microphone. Made on PCB bread board.
